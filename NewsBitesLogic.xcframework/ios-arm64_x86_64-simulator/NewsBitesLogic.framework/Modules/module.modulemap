@@ -1,0 +1,6 @@
+framework module "NewsBitesLogic" {
+    umbrella header "NewsBitesLogic.h"
+
+    export *
+    module * { export * }
+}
